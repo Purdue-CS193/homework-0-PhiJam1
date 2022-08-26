@@ -14,6 +14,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
 
 - Bulleted
 - List
@@ -22,6 +23,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+**More Code Text**
+ `double x = Math.PI * Math.pow(25, 0.5);`
 
 [Link](url) and ![Image](src)
 ```
